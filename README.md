@@ -11,7 +11,7 @@ While standard NTFS permissions control *who* can access a folder, FSRM controls
 ## 🛠️ Step 1: Installing the FSRM Role
 FSRM is not installed by default. I added it via the Server Manager using the Add Roles and Features Wizard.
 
-https://github.com/davidcharlespascual/FILE_Server_Resource_Manager/blob/main/1.jpeg
+<img width="1166" height="685" alt="Image" src="https://github.com/user-attachments/assets/76f4c295-2b18-48b3-8429-3a20d1fd8613" />
 
 ---
 
